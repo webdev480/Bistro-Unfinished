@@ -1,0 +1,32 @@
+body {
+   background-color: rgb(255, 244, 223);
+}
+
+.navLogo {
+    max-width: 150px;
+}
+
+.carousel slide {
+   max-width: 15rem;
+   max-height: 15rem;
+}
+
+ .card {
+    background: none;
+   border: none;
+   padding: 50px;
+}
+
+/* .card-container {
+   display: flex;
+   flex-flow: row;
+} */
+
+.btn {
+   background-color: rgb(165, 141, 96);
+   color: rgb(255, 255, 255);
+}
+
+.btn-secondary {
+   background-color: #5c2a30 !important;
+}
